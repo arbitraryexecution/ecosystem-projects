@@ -8,6 +8,7 @@
   "status": "live",
   "website": "https://www.arbitraryexecution.com/",
   "twitter": "https://twitter.com/Arbitrary_Exec",
-  "summary": "Combining our government background and extensive experience securing complex systems, with a complete understanding of Web3 infrastructure, Arbitrary Execution is uniquely qualified to provide you with critical security capabilities. We offer services to protect your protocol, users, and reputation including smart contract audits, monitoring & response, security research & development, and training.",
+  "summary": "Combining our government background and extensive experience securing complex systems, with a complete understanding of Web3 infrastructure, Arbitrary Execution is uniquely qualified to provide you with critical security capabilities. We offer services to protect your protocol, users, and reputation, including smart contract audits, monitoring & response, security research & development, and training.",
+  "docs":"https://github.com/arbitraryexecution/publications",
   "github":"https://github.com/arbitraryexecution"  
 }
